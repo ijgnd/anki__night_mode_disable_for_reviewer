@@ -1,3 +1,2 @@
-for details see [ankiweb]().
-
-License: see `src/__init__.py`
+Do not use this add-on. Instead use the add-on by hikaru-y (u/yumenogotoshi)
+ "disable_night_mode_temporarily_by_tag" from [this gist](https://gist.github.com/hikaru-y/737e60d5ff58a124ffe7e2a78a385831) which was announced [here](https://www.reddit.com/r/Anki/comments/gehk60/how_to_disable_night_mode_temporarily_for_a/fpo4uiw?utm_source=share&utm_medium=web2x). I use this add-on in combination with [Tag Toggler (Fork for 2.1)](https://ankiweb.net/shared/info/1429363228).
